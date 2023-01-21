@@ -10,7 +10,7 @@ IDE: VS-Code
 
 Industry : Fin-tech
 
-Project Title : ElectroStoreCommercec
+Project Title : ElectroStoreCommerce
 
 Problem Statement/Opportunity : Every One has to order different sites based upon their intrest.
 
