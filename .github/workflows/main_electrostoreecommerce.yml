@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ElectroStoreEcommerce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11B35E91BE4F445E991BD0C4798CB5FE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9EBEC72226034E23BE450E985BE59AD5 }}
           package: .
