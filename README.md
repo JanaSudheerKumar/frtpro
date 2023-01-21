@@ -1,4 +1,4 @@
-finalpro:Future Ready Talent Project By Jana Sudheer Kumar
+## finalpro:Future Ready Talent Project By Jana Sudheer Kumar
 
  The purchased of goods and services directly from a seller through the internet using wired-internet computer. Learn more in: Mobile Shopping: The New Retailing Industry in the 21st Century.
 
