@@ -8,7 +8,7 @@ Web Technologies used: HTML, CSS, JS.
 
 IDE: VS-Code
 
-Industry : Ed-tech
+Industry : Fin-tech
 
 Project Title : ElectroStoreCommercec
 
