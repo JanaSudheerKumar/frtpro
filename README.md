@@ -40,3 +40,11 @@ App Services URL : https://electrostoreecommerce.azurewebsites.net
 ## Azure Services Used
 ![Screenshot 2023-01-21 220312](https://user-images.githubusercontent.com/113497303/213876855-b30a2db4-3884-47a6-b11e-b8ea81585fbe.jpg)
 
+## Images Of Static Web Apps
+![Screenshot 2023-01-22 131550](https://user-images.githubusercontent.com/113497303/213905747-6ca772e5-02c0-4d71-abc5-11e98dbb3d04.jpg)
+![Screenshot 2023-01-22 131525](https://user-images.githubusercontent.com/113497303/213905749-0bcd748d-4678-42d7-8d13-b07d7c5de309.jpg)
+
+## Images Of App Service
+![Screenshot 2023-01-22 131306](https://user-images.githubusercontent.com/113497303/213905763-46cb8b74-8e78-4b13-af64-b3f7e72a900d.jpg)
+![Screenshot 2023-01-22 131343](https://user-images.githubusercontent.com/113497303/213905765-acd0cc9c-ccaf-4287-bfb2-34ae256f80b0.jpg)
+
